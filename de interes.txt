@@ -1,0 +1,7 @@
+https://create.arduino.cc/projecthub/ansh2919/serial-communication-between-python-and-arduino-e7cce0
+https://www.arduino.cc/reference/en/ //por si acaso
+https://www.generationrobots.com/media/mbot-led-matrix-instructions-generation-robots.pdf
+https://sourceforge.net/projects/led-matrix-studio/files/LEDMatrixStudioSource_10.9.zip/download
+los ajustes son :
+pantalla es de 8 x 16 o igual es al reves
+y se exporta y dibuja como se muestra en la imagen
